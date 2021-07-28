@@ -1,0 +1,6 @@
+page/ProductsPage.java
+ page.ProductsPage
+base/BasePage.java
+ base.BasePage
+page/LoginPage.java
+ page.LoginPage
